@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, eu sou a Ludnice! 👋
 
-<!--
-**ludnice11-lang/ludnice11-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou educadora e escritora de livros infantis, moro em Portugal e estou em transição para a tecnologia. Estudo Desenvolvimento de Software e aprendo criando meus próprios projetos.
 
-Here are some ideas to get you started:
+## O que estou estudando
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML5 e CSS
+- JavaScript
+- SQL e Microsoft Access
+- Angular
+- Git e GitHub
+
+## Meus projetos
+
+- [Aula de JavaScript](https://github.com/ludnice11-lang/aula-javascript): meus primeiros passos com JavaScript
+- [Curso de HTML5](https://github.com/ludnice11-lang/curso-HTML5): exercícios e meu portfólio pessoal
+- [Guia de Códigos](https://github.com/ludnice11-lang/guia-de-codigos): minhas anotações de terminal e Git
+
+## O que procuro
+
+Uma oportunidade como júnior ou estágio, em modelo remoto ou híbrido.
+
+## Contato
+
+[Meu LinkedIn](https://www.linkedin.com/in/ludnice-machado-144aa123b/)
