@@ -22,4 +22,4 @@ Uma oportunidade como júnior ou estágio, em modelo remoto ou híbrido.
 
 ## Contato
 
-[Meu LinkedIn](https://www.linkedin.com/in/ludnice-machado-144aa123b/)
+[Meu LinkedIn](https://www.linkedin.com/in/ludnice-m-144aa123b/)
