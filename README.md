@@ -11,7 +11,7 @@ Sou educadora e escritora de livros infantis, moro em Portugal e estou em transi
 - Git e GitHub
 
 ## Meus projetos
-
+- [Portfólio](https://ludnice11-lang.github.io/port-folio/): site com resumo das minhas aprendizagens
 - [Aula de JavaScript](https://github.com/ludnice11-lang/aula-javascript): meus primeiros passos com JavaScript
 - [Curso de HTML5](https://github.com/ludnice11-lang/curso-HTML5): exercícios e meu portfólio pessoal
 - [Guia de Códigos](https://github.com/ludnice11-lang/guia-de-codigos): minhas anotações de terminal e Git
