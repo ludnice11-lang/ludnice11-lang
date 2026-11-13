@@ -14,7 +14,7 @@ Sou educadora e escritora de livros infantis, moro em Portugal e estou em transi
 
 - [port-folio](https://github.com/ludnice11-lang/port-folio) - meu portfólio feito c/ Angular
 - [site-bebe-livre](https://github.com/ludnice11-lang/site-bebe-livre) - site Bebê Livre
-- [projeto-jogo](https://github.com/ludnice11-lang/projeto-jogo) - jogo q estou criando
+- [projetojogo](https://github.com/ludnice11-lang/projetojogo) - jogo q estou criando
 - [guia-de-codigos](https://github.com/ludnice11-lang/guia-de-codigos) - minhas anotações de estudo
 - [aula-javascript](https://github.com/ludnice11-lang/aula-javascript) - exercícios das aulas de JavaScript
 
