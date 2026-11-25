@@ -2,16 +2,15 @@
 
 Sou educadora e escritora de livros infantis, moro em Portugal e estou em transição para a tecnologia. Estudo Desenvolvimento de Software e aprendo criando meus próprios projetos.
 
-## O que estou estudando
-
-- HTML5 e CSS
-- JavaScript
-- SQL e Microsoft Access
-- Angular
-- Git e GitHub
+## O que tenho estudado
+- **Front-end:** HTML5, CSS3, JavaScript, design responsivo
+- **Frameworks:** Angular com TypeScript (em estudo)
+- **Dados:** SQL, MySQL, localStorage, Firebase (em estudo)
+- **Ferramentas:** Git, GitHub, GitHub Pages, VS Code
 
 ## Meus projetos
 
+- [MeuSite](https://ludnice.pt/) - meu site para trabalhos freelancer
 - [port-folio](https://github.com/ludnice11-lang/port-folio) - meu portfólio feito c/ Angular
 - [site-bebe-livre](https://github.com/ludnice11-lang/site-bebe-livre) - site Bebê Livre
 - [projetojogo](https://github.com/ludnice11-lang/projetojogo) - jogo q estou criando
